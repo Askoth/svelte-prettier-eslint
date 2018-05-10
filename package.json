@@ -1,0 +1,17 @@
+{
+  "name": "svelte-prettier-eslint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marcelo Oliveira <askoth@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "parse5": "^4.0.0",
+    "prettier": "^1.12.1",
+    "rollup": "^0.58.2",
+    "rollup-plugin-eslint": "^4.0.0",
+    "rollup-plugin-prettier": "^0.4.0",
+    "rollup-plugin-svelte": "^4.1.0",
+    "svelte": "^2.5.0"
+  }
+}
